@@ -1,6 +1,5 @@
-# Build a blog using Nest.js, Vue.js and MongoDB
-
-Application repo for a simple blog application built with Nest.js, Vue.js and MongoDB.
+# Imbue Blog
+A simple blog application built with Nest.js, Vue.js and MongoDB.
 
 ## Getting Started
 This prototype is divided into two separate sections. Namely the Backend ( Built with Nest.js) and the frontend
@@ -65,11 +64,3 @@ npm run serve
 
 ### Test the application
 Finally open your browser and view the application on http://localhost:8080
-
-## Prerequisites
- [Node.js](https://nodejs.org/en/), [Npm](https://www.npmjs.com/), [MongoDB](https://docs.mongodb.com/v3.2/installation/)
-
-## Built With
-[Nest.js](https://nestjs.com/)
-[Vue.js](https://vuejs.org/)
-[MongoDB]() 
